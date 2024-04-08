@@ -2,7 +2,7 @@
 name = "AITracker_AITrackerDev"
 version = "1.0.0"
 authors = [
-  { name="Jacob Hogrefe and Emilio Cruz", email="author@example.com" },
+  { name="Jacob Hogrefe and Emilio Cruz" },
 ]
 description = "A small example package"
 readme = "README.md"
@@ -16,5 +16,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://github.com/AITrackerDev/AITracker"
+Issues = "https://github.com/AITrackerDev/AITracker/issues"
